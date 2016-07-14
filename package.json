@@ -1,0 +1,16 @@
+{
+  "name": "cb11node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2"
+  }
+}
